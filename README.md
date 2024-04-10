@@ -4,6 +4,16 @@
 
 _Universal Debloater and PC Manager for the most up-to-date version of the Redmond OS (Windows 11)_
 
+## About this fork
+
+This fork is looking for a new maintainer.
+
+The current maintainer does not know how it works.
+
+The current maintainer WILL NOT HELP YOU FIX PROBLEMS CAUSED BY THE USE OF THIS PROGRAM.
+
+If you care enough to submit a pull request, you are a solid candidate.
+
 ## Download
 ### GitHub (Recommended)
 You can download Bloatynosy directly from the [GitHub releases page](https://github.com/builtbybel/Bloatynosy/releases)
@@ -23,4 +33,3 @@ More infos here https://www.builtbybel.com/apps/bloatynosy
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=builtbybel/Bloatynosy&type=Timeline)](https://star-history.com/#builtbybel/Bloatynosy&Timeline)
-
